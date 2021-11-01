@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.sandbox", "api.sandbox\api.sandbox.csproj", "{D28D4290-F68E-4E0B-9CC3-9900B5763C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queue.connector", "queue.connector\queue.connector.csproj", "{ACCB07C0-E831-4A21-BE75-F29589D3F928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28D4290-F68E-4E0B-9CC3-9900B5763C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28D4290-F68E-4E0B-9CC3-9900B5763C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28D4290-F68E-4E0B-9CC3-9900B5763C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28D4290-F68E-4E0B-9CC3-9900B5763C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCB07C0-E831-4A21-BE75-F29589D3F928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCB07C0-E831-4A21-BE75-F29589D3F928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCB07C0-E831-4A21-BE75-F29589D3F928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCB07C0-E831-4A21-BE75-F29589D3F928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A550AAA2-1DB6-4E0F-9287-82EE45FDC5A1}
+	EndGlobalSection
+EndGlobal
